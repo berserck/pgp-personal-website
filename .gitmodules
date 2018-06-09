@@ -1,0 +1,3 @@
+[submodule "pgp-notes"]
+	path = pgp-notes
+	url = https://github.com/berserck/pgp-notes.git
